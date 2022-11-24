@@ -66,6 +66,7 @@ Yukarıdaki örnekte başlangıçta 6 elemanlı olan sayiDizisi Resize metodu il
         {
         Console.WriteLine(item);
         }
-        ```
+ ```
+
         
-        [www.patika.dev](https://www.patika.dev/tr)
+ [www.patika.dev](https://www.patika.dev/tr)
